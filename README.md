@@ -128,7 +128,12 @@ Using this dashboard, users can:
 ### Main Dashboard
 
 <img src="dashboard.png" width="1000">
+### MTD Report
 
+<img src="mtd-report.png" width="1000">
+### Sply Report
+
+<img src="sply-report.png" width="1000">
 ---
 
 ## 📂 Repository Structure
